@@ -1,0 +1,22 @@
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Cabin', sans-serif;
+}
+
+.action-bar {
+    color: white;
+    height: 20rem;
+    background-color: #DC3545;
+    margin-top: 3rem;
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+}
+
+/* #373a3c
+● #dddddd
+● #000 o var(--black)
+● #fff o var(--white)
+● #dc3545 o var(--danger)
+ */
