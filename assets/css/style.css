@@ -1,6 +1,11 @@
 body {
     font-family: 'Lobster', cursive;
     font-family: 'Cabin', sans-serif;
+/* maximo de ancho en el body???? */
+}
+
+.imagen-principal {
+    max-width: 90%;
 }
 
 .action-bar {
@@ -11,12 +16,21 @@ body {
 }
 
 footer {
-    font-family: 'Lobster', cursive;
+    background-color: #373a3c;
+    padding: 1rem;
 }
+
+footer p {
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 37pt;
+
+}
+
 
 /* #373a3c
 ● #dddddd
 ● #000 o var(--black)
 ● #fff o var(--white)
-● #dc3545 o var(--danger)
+● # o var(--danger)
  */
