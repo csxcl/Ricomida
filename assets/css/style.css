@@ -1,11 +1,25 @@
+
 body {
     font-family: 'Lobster', cursive;
     font-family: 'Cabin', sans-serif;
-/* maximo de ancho en el body???? */
+    /* maximo de ancho en el body???? */
+    /* max-width: 100rem; */ 
 }
 
+.navbar-brand {
+    color: white;
+    font-family: 'Lobster', cursive;
+ 
+
+}
+
+
 .imagen-principal {
-    max-width: 100%;
+    max-width: 30rem;
+}
+
+.pizz2 {
+    max-width: 30rem;
 }
 
 .action-bar {
