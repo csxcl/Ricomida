@@ -8,6 +8,9 @@
 $(selector).toggle();*/
 
 
-$("#enviarCorreo").click(function() {
-    alert("The paragraph was clicked.");
+$(function() {
+
+    $("#enviarCorreo").click(function() {
+        alert("El correo ha sido enviado correctamente...");
+    })
 });
