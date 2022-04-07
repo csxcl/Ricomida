@@ -8,6 +8,7 @@ body {
 .navbar-brand {
     color: white;
     font-family: 'Lobster', cursive;
+    font-size: 37pt;
 }
 
 .imagen-principal {
@@ -46,6 +47,12 @@ footer p {
         padding-bottom: 3px;
         border-bottom: 1px solid #000;
     }
+}
+
+span {
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 30pt;
 }
 
 
