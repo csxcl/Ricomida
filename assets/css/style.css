@@ -49,8 +49,8 @@ footer p {
     }
 }
 
-span {
-    color: white;
+.rico {
+    /*    color: white;*/
     font-family: 'Lobster', cursive;
     font-size: 30pt;
 }

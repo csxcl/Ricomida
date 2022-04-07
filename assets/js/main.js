@@ -5,7 +5,8 @@ $(function() {
     });
 
 
-    //   $("h4").on(css("text-color" = "red"), "dblclick")); <-- aqui esta el error
+    /* $("h4").on(css("text-color" = "red"), "dblclick")
+    }); */
 
 
 });
