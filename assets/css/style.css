@@ -1,25 +1,26 @@
-
 body {
     font-family: 'Lobster', cursive;
     font-family: 'Cabin', sans-serif;
     /* maximo de ancho en el body???? */
-    /* max-width: 100rem; */ 
+    /* max-width: 100rem; */
 }
 
 .navbar-brand {
     color: white;
     font-family: 'Lobster', cursive;
- 
-
 }
-
 
 .imagen-principal {
-    max-width: 30rem;
+    max-width: 100%;
 }
 
-.pizz2 {
-    max-width: 30rem;
+hr {
+    height: 1px;
+    background-color: black;
+}
+
+.linea {
+    max-width: 70rem;
 }
 
 .action-bar {
@@ -38,7 +39,12 @@ footer p {
     color: white;
     font-family: 'Lobster', cursive;
     font-size: 37pt;
+}
 
+@media (min-width: 576px) {
+    .chanchi {
+        text-decoration: underline;
+    }
 }
 
 
